@@ -13,24 +13,22 @@ def Writertext(z):
 
 #Banner
 time.sleep(1)
-import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, requests, mechanize
+banner = """\033[96m
++=========================================+
+|...........Deface Page Creator...........|
++-----------------------------------------+
+|#Created By:     ADNAN ISLAM             |
+|#Contact:   facebook/Adnan.Islam.0.2     |
+|#Version:         2.9.09                 |
+|#Thanks To: SAK1B FOR HELPING ME         |
++=========================================+
+|...........Deface Page Creator...........|
++-----------------------------------------+
+\033[1;31;40mYou Can Skip All Question If You Want To Skip
+Thanks For Using The Tool :)"""
+Writertext(banner)
 
-os.system('clear')
-print """
-\033[93mooooooooooooooooooooooooooooooooooooooooooooo
-\033[1;91m  
-.d88888b   .d888888  dP     dP dP  888888ba  
-88.    "' d8'    88  88   .d8' 88  88    `8b 
-`Y88888b. 88aaaaa88a 88aaa8P'  88 a88aaaa8P' 
-      `8b 88     88  88   `8b. 88  88   `8b. 
-d8'   .8P 88     88  88     88 88  88    .88 
-Y88888P  88     88  dP     dP dP  88888888P 
-
-\033[93mooooooooooooooooooooooooooooooooooooooooooooo
-
-"""
-
-print("Created By:-> \033[1;92mSAK1B \033[90m& \033[94mAD4NAN")
+print("Created By:-> \033[1;92mADNAN & SAK1B \033[90m& \033[94mAD4NAN")
 time.sleep(3)
 print ""
 print ""
