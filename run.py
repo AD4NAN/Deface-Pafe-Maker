@@ -30,9 +30,6 @@ Writertext(banner)
 
 print("Created By:-> \033[1;92mADNAN & SAK1B \033[90m& \033[94mAD4NAN")
 time.sleep(3)
-
-\033[1;31;40mYou Can Skip All Question If You Want To Skip
-Thanks For Using The Tool :)"""
 Writertext(banner)
 
 # Input Question
