@@ -30,31 +30,7 @@ Writertext(banner)
 
 print("Created By:-> \033[1;92mADNAN & SAK1B \033[90m& \033[94mAD4NAN")
 time.sleep(3)
-print ""
-print ""
 
-CorrectUsername = "SAK1B"
-CorrectPassword = "AD4NAN"
-
-loop = 'true'
-while (loop == 'true'):
-	username = raw_input("Tool Username : ")
-	if (username == CorrectUsername):
-		password = raw_input("Tool Password : ")
-		if (password == CorrectPassword):
-			print "Logged in successfully as " + username
-			os.system('xdg-open https://www.facebook.com/Adnan.Islam.0.2')
-
-			time.sleep(5)
-			loop = 'false'
-		else:
-			print "\033[1;93mWrong Password"
-			os.system('xdg-open https://www.facebook.com/Adnan.Islam.0.2')
-	else:
-		print "\033[1;94mWrong Username"
-		os.system('xdg-open https://www.facebook.com/Adnan.Islam.0.2')
-
-os.system('clear')
 \033[1;31;40mYou Can Skip All Question If You Want To Skip
 Thanks For Using The Tool :)"""
 Writertext(banner)
