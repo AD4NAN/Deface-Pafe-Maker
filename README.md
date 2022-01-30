@@ -30,7 +30,7 @@ CONTACT : <i>ad4nan@hotmail.com</i>  <br> <br>
   </a>
 </div>
 
- <h2> Special Thanks To Nirob </h1>
+ <h2> Special Thanks To SAK1B </h1>
 <p align="center">
 
 #### INSTALL TOOL ON TERMUX
