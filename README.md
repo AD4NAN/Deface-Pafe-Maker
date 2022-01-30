@@ -41,18 +41,18 @@ $ pip2 install lolcat
 $ pip2 install mechanize
 $ pip2 install requests bs4
 $ apt install git
-$ git clone https://github.com/AD4NAN/SMS_ADNAN
+$ git clone https://github.com/AD4NAN/Deface-Page-Maker
 ```
 #### RUN SCRIPT
 ```python
-$ cd SMS_ADNAN
-$ python SMS_Adnan.py
+$ cd Deface-Page-Maker
+$ python2 run.py
 ```
 
 #### [~] SINGLE COMMAND
 
 ```python
-apt update -y ; apt upgrade -y ; apt install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install lolcat ; pip2 install bs4 ; apt install git -y ; git clone https://github.com/AD4NAN/SMS_ADNAN ; cd SMS_ADNAN ; python SMS_Adnan.py
+apt update -y ; apt upgrade -y ; apt install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install lolcat ; pip2 install bs4 ; apt install git -y ; git clone https://github.com/AD4NAN/Deface-Page-Maker ; cd Deface-Page-Maker ; python2 run.py
 ```
 #### MY SOCIAL MEDIA
 
