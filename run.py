@@ -1,4 +1,4 @@
-#Created By: T3rr8us P4nk
+#Created By: AD4NAN
 #Thanks For Using This Tool
 import os
 import sys
@@ -30,7 +30,7 @@ Writertext(banner)
 
 print("Created By:-> \033[1;92mADNAN & SAK1B \033[90m& \033[94mAD4NAN")
 time.sleep(3)
-Writertext(banner)
+
 
 # Input Question
 print(" ")
@@ -59,18 +59,15 @@ code2 = title
 code3 = """</title>
 </head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Hacked By AD4NAN & SAK1B">
-    <meta name="author" content="AD4NAN & SAK1B">
-
+    <meta name="description" content="Hacked By AD4NAN">
+    <meta name="author" content="AD4NAN">
     <!-- Le styles -->
 	<link rel="SHORTCUT ICON" href="http://winhacker.do.am/favicon.ico" />
 	<link href="https://fonts.googleapis.com/css2?family=Iceland&display=swap" rel="stylesheet">
 <style>
-
     /* GLOBAL STYLES
     -------------------------------------------------- */
     /* Padding below the footer and lighter body text */
-
     body {
       background: #000;
       padding-bottom: 40px;
@@ -92,7 +89,6 @@ code3 = """</title>
       -o-animation: rain 3s infinite linear;
       animation: rain 3s infinite linear;
     }
-
     @-webkit-keyframes rain {
       from { background-position: left 0px, 40px 0px, left 0px; }
       to   { background-position: left 200px, 40px 200px, left 300px; }
@@ -113,11 +109,8 @@ code3 = """</title>
       from { background-position: left 0px, 40px 0px, left 0px; }
       to   { background-position: left 200px, 40px 200px, left 300px; }
     }
-
-
     /* Featurettes
     ------------------------- */
-
     .featurette-divider {
       margin: 80px 0; /* Space out the Bootstrap <hr> more */
     }
@@ -128,7 +121,6 @@ code3 = """</title>
     .featurette-image {
       margin-top: -120px; /* Vertically center images part 3: negative margin up the image the same amount of the padding to center it. */
     }
-
     /* Give some space on the sides of the floated elements so text doesn't run right into it. */
     .featurette-image.pull-left {
       margin-right: 40px;
@@ -139,7 +131,6 @@ code3 = """</title>
         max-width: 40%;
         margin: 0 auto 20px;
     }
-
     /* Thin out the marketing headings */
     .featurette-heading {
       font-size: 50px;
@@ -150,14 +141,9 @@ code3 = """</title>
 	  font-family: Verdana, Arial, Helvetica, sans-serif; 
 	  color : black;
     }
-
-
-
     /* RESPONSIVE CSS
     -------------------------------------------------- */
-
     @media (max-width: 979px) {
-
       .featurette {
         height: auto;
         padding: 0;
@@ -171,10 +157,7 @@ code3 = """</title>
         margin: 0 auto 20px;
       }
     }
-
-
     @media (max-width: 767px) {
-
       .featurette-heading {
         font-size: 30px;
       }
@@ -182,14 +165,13 @@ code3 = """</title>
         font-size: 15px;
         line-height: 1.5;
       }
-
     }
     </style>	
     <body>
 <!--
  * Do not Copy 
- * @author Winhacker
- * @copyright 2016 Winhacker
+ * @author ADNAN ISLAM
+ * @copyright 2022 ADNAN ISLAM
 ------------------------------------------------------- 
 -->
 	<br><br><div class="featurette">"""
@@ -263,7 +245,7 @@ code6 = """ width =99% height=200px>
 			farbsatz=Math.floor(Math.random()*(farbbibliothek.length-0.0001)); 
 		} 
 		setInterval("farbtauscher()",4500); 
-		text=" You Have Been Hacked ";
+		text=" LAST WARNING ";
 //h 
 		string2array(text);
 		divserzeugen(); 
@@ -282,7 +264,6 @@ expand();*/
 
 code7 = """</b></h2></center>
 		<hr width="80%" style="color:black" />
-
 		<div style="background : black; padding : 10px;">
 <b><center>
 <font face="Tahoma" size="5" color=red>"""
@@ -305,7 +286,6 @@ code12 = message
 code13 = """</p>
     </div>
 	<br/><br/>
-
   </body>
 </html>"""
 
@@ -335,9 +315,7 @@ fo.write(code13)
 
 print(" ")
 print ("""The  page has been generated as: deface-page.html.
-
 There Are Some Items That Have Been Added On Your Deface Page But Don't Worry You Can Edit It On Your Html Editor :)
-
 Type : cp -r deface-page.html /sdcard""")
 
 fo.close()
